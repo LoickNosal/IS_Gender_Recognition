@@ -11,7 +11,7 @@ This project aims to develop an AI model that can recognize a person's gender fr
 
 ## Usage
 ```python
-python nom_du_fichier.py
+python main.py
 ```
 The haarcascade_frontalface_default.xml file as well as the .jpg files of the photos to analyze must be in the same folder as main.py
 
